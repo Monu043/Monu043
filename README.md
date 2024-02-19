@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Monu Prajapati and I'm a learner</p>
+<p align="left">My name is Monu Prajapati and I'm a Software Developer from Panipat Haryana</p>
 
 ###
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning web dev<br>🎯 Goals: Become a good Software Developer<br>🎲 Fun fact: nothing</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning web dev<br>🎯 Goals: Become a good Software Developer<br></p>
 
 ###
 
